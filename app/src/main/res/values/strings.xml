@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppNovo</string>
+    <string-array name="filmes">
+        <item>Mulher maravilha</item>
+        <item>Super man</item>
+    </string-array>
+
+</resources>
